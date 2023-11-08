@@ -5,8 +5,8 @@ This is a collection of projects and scripts created for graded assignments at m
 New classes will be added once they are completed and the files are simply clicked and dragged over from their original location with very little revision for the sake of transparency.
 
 ## Table of Contents
-- [Intro to Scientific Programming (Python) - Spring 2022](https://github.com/tybozzy/class_projects/tree/main/scientific_programming)
-- [Computer Science I (Java) - Fall 2022](https://github.com/tybozzy/class_projects/tree/main/computer_science_i)
+- [Intro to Scientific Programming (Python) - Spring 2022](https://github.com/tybozzy/class_projects/tree/624558bff20a5ecd7ef6a489848a8bddd7956e96/Intro%20to%20Scientific%20Programming)
+- [Computer Science I (Java) - Fall 2022](https://github.com/tybozzy/class_projects/tree/624558bff20a5ecd7ef6a489848a8bddd7956e96/Computer%20Science%20I)
 - Programming Software Solutions (Python) - Fall 2023 
     - In progress, end date ~Dec. 2023
 
