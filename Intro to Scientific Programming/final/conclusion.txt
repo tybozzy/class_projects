@@ -1,0 +1,20 @@
+Binary to hex:
+First I ask for the binary code from the user. Then I assign every combination from the provided table into a dictionary. 
+After that I have a quick for loop to make all of the input binary into a list. 
+Then I have an if statement to check if the list needs leading zeros added and adds however many are needed to get the list into an evenly divisible length by 4. 
+After that I have a for loop to run for only the amount of hex characters are inside the binary. 
+This took some trouble and kept giving me a weird error for floats hence the import of the math library and using math.floor to round to an integer. 
+It solved my issue though. Then I have a temporary variable that stores the key of the values of 4 binary characters from my original list. 
+It then appends that matching value from the key into a final list. The last line prints the list all together.
+
+Above average:
+First it takes the filename from the user then opens it and stores all the values into a list. 
+I then calculate the entire average using sum/len. 
+I then have a for loop to iterate through the list with an if statement to check and count if the grade is above the average set above. 
+It then prints out all the information with the final bit running an if state to check whether the student is above average.
+
+Yahtzee:
+I first define a function called experiment. I set a counting variable then go into a while loop. The loop adds 1 to the count then rolls 5 d6's.
+It then compares all the dice to each other and checks if they all equal 6. If it does it returns the count.
+Outside of the loop, I have a variable holding the amount of trials, a timer variable and total rolls variable. In the for loop, it runs for the amount of trials set.
+Inside the for loop, the experiment count is added and stored in the total rolls variable. Finally, the average is calculated by dividing the rolls by the amount of trials then printed along with the elapsed time in seconds.
