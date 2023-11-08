@@ -5,9 +5,9 @@
 This class was an introduction to computer science, Java, and object-oriented programming. It was my first foray into Java and propelled me to an intermediate/advanced knowledge of the language.
 
 ## Personal Favorites:
-- [Homework 8 - "Rainfall"]()
-- [Lab 6 - "ISP"]()
-- [Lab 8 - "Powerball"]()
+- [Homework 8 - "Rainfall"](https://github.com/tybozzy/class_projects/blob/main/Computer%20Science%20I/Homework%208/Rainfall.java)
+- [Lab 6 - "ISP"](https://github.com/tybozzy/class_projects/blob/main/Computer%20Science%20I/Lab%206/ISP.java)
+- [Lab 8 - "Powerball"](https://github.com/tybozzy/class_projects/blob/main/Computer%20Science%20I/Lab%208/PowerBall.java)
 
 ### Java concepts in this class:
 - Object-oriented programming
